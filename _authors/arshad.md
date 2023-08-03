@@ -1,9 +1,9 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. X
-position: The One
+name: arshad
+display_name: Arshad Ali
+position: iOS Developer
 bio: Bulletproof hacker passionate about leather clothes.
 github_username: github_username
 facebook_username: facebook_username
