@@ -1,14 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Arshad Ali
+title: Arshad Ali | iOS Developer
+description: Blog for iOS development .
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - swift
+  - ios
+  - swiftui
+  - Testing
 show_hero: true
 menu:
   - title: Home
@@ -59,9 +57,9 @@ highlighter: rouge
 permalink: /:title/
 collections:
   authors:
-    output: true
+    output: false
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
