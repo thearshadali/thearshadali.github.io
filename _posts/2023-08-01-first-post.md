@@ -2,7 +2,7 @@
 date: 2023-08-25T23:48:05.000Z
 layout: post
 title: count or isEmpty?
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'Learn the difference'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
