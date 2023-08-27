@@ -6,8 +6,6 @@ subtitle: 'Learn the difference'
 category: blog
 tags:
   - Swift
-  - iOS
-author: mranderson
 paginate: true
 ---
 
