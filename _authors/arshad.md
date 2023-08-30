@@ -13,3 +13,4 @@ linkedin_username: linkedin_username
 medium_username: medium_username
 ---
 
+I'm Arshad Ali, dedicated to iOS development for 6 years. My focus is on creating exceptional mobile applications.
